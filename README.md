@@ -16,19 +16,19 @@ Run the web application with `npm start`
 
 ## Usage
 
-![main screen](./screens/liz-screen1.png)
+![main screen](./shopping-cart/screens/liz-screen1.png)
 
 The main screen shows six movie discs available for purchase: 3 DVDs and 3 Blu-rays. The top right button leads to the shopping cart page and shows how many items are currently in the cart. Clicking "Add to cart" also sends the customer to the shopping cart screen, in which they can view items in the cart, cost and quantity of each item, as well as total cost. Customers can either go back to the main screen with the top left logo or change the quantity of the items within the shopping cart by pressing the + and - buttons.<br>
 
-![shopping cart](./screens/liz-screen2.png)
+![shopping cart](./shopping-cart/screens/liz-screen2.png)
 
 If a customer adds all 3 DVDs to the cart, the customer will automatically receive a 10% discount on DVDs. If a customer adds all 3 Blu-Rays to the cart, the customer will automatically receive a 15% discount on Blu-Rays. These discounts and savings are shown in the shopping cart whenever available.<br>
 
-![discounts](./screens/liz-screen3.png)
+![discounts](./shopping-cart/screens/liz-screen3.png)
 
 Additionally, if the customer adds 100 or more items to the cart, the customer will receive a 5% bulk discount on the total. This discount is applied to the total after the discounts above.
 
-![bulk discount](./screens/liz-screen4.png)
+![bulk discount](./shopping-cart/screens/liz-screen4.png)
 
 ## Built With
 
